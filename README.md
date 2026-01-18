@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Anandakrishnan v s]
+# 👋 Hi, I'm Anandakrishnan v s
 
 <div align="center">
   
@@ -14,12 +14,12 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
+    name: "Anandakrishnan v s",
+    location: "Kottayam,Kerala,India",
     role: "Software Developer",
     interests: ["Web Development", "Open Source", "AI/ML"],
     currentlyLearning: ["Next.js", "TypeScript", "System Design"],
-    funFact: "I debug with console.log() and I'm not ashamed"
+    funFact: "Turning "
 };
 ```
 
