@@ -1,7 +1,7 @@
 ## ![👋 Hi, I'm Anandakrishnan V S](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&width=600&lines=👋+Hi%2C+I'm+Anandakrishnan+V+S)
 <div align="center">
   
-### 🚀 Developer | 💡 Problem Solver | 🌟 Tech Enthusiast
+### 🚀 Web Developer | 💡 Problem Solver | 🌟 Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+amazing+projects;Learning+something+new+everyday;Open+to+collaboration)](https://git.io/typing-svg)
 
